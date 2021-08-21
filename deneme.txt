@@ -2,3 +2,4 @@ Merhaba
 Welcome
 test
 cakisma olacak
+deneme remote
