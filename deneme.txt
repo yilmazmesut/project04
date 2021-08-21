@@ -1,2 +1,4 @@
 Merhaba
 Welcome
+test
+deneme remote
